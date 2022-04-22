@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-##[INSTAGRAM](https://www.instagram.com/_menciia_/)
-
-##Mi perrito se llama Bruno, Muy juguetón 
+# [INSTAGRAM](https://www.instagram.com/_menciia_/) 
+:fire:
+## Mi perrito se llama Bruno  :dog: 
 
 
 <!--
