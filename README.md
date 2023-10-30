@@ -1,7 +1,7 @@
 <!--
 ## <div align="center"> Mi perrito se llama Bruno  :dog: -->
 
-<h1 align="center"> 🤔 Welcome to my profile 👨‍💻 </h1>
+<h1 align="center"> Welcome to my profile ❤️ </h1>
 <h2 align="center"> Social Media: </h2>
   <p align="center">
     <a href="https://stackoverflow.com/users/22259843/abisinia">
