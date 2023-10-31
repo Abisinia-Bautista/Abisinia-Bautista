@@ -19,6 +19,6 @@
 <p align="center">
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Abi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Abisinia-Bautista&theme=synthwave&show_icons=true&border_radius=10" height="192px" width="auto"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Abi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abisinia-Bautista&hide_progress=true&border_radius=10" height="192px" width="auto"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Abi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abisinia-Bautista&hide_progress=true&theme=synthwave&border_radius=10" height="192px" width="auto"/></a>
   <br/>
 </p>
