@@ -23,3 +23,8 @@
   <br/>
   <b>Estadistica basado en los repositorios publicos.</b>
 </p>
+
+
+<p align="left">
+  <a href="https://github.com/Abisinia-Bautista?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
