@@ -19,7 +19,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" alt="Abi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Abisinia-Bautista&theme=synthwave&show_icons=true&border_radius=10"/>
   </a>
-  <br>
+  <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" alt="Abi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abisinia-Bautista&hide_progress=true&theme=jolly&border_radius=10" />
   </a>
