@@ -15,6 +15,7 @@
     </a>
   </p>
 
+<div>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img height="192px" align="center" alt="Abi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Abisinia-Bautista&theme=synthwave&show_icons=true&border_radius=10"/></a>
   <br/>
@@ -22,6 +23,7 @@
   <br/>
   <b>Estadistica basado en los repositorios publicos.</b>
 </p>
+</div>
 
 <!--
 <p align="left">
