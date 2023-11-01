@@ -17,10 +17,8 @@
 
 
 <p align="center">
-  <br>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Abi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Abisinia-Bautista&theme=synthwave&show_icons=true&border_radius=10" height="190px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Abi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abisinia-Bautista&hide_progress=true&theme=jolly&border_radius=10" height="200px" width="500px" /></a>
-  <br/>
   <b>Estadistica basado en los repositorios publicos.</b>
 </p>
 
