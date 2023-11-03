@@ -12,9 +12,10 @@
     <a href="https://instagram.com/_menciia_"> 
       <img src="https://img.shields.io/badge/Instagram-FEFDFC?&style=for-the-badge&logo=Instagram&logoColor=E4405F&labelColor=black&color=black">
     </a>
+    <!--
     <a href="https://www.linkedin.com/in/bautista-abisinia"> 
       <img src="https://img.shields.io/badge/linkedin-FEFDFC?&style=for-the-badge&logo=linkedin&logoColor=0e76a8&labelColor=black&color=black">
-    </a>
+    </a> -->
   </p>
 
 <div>
