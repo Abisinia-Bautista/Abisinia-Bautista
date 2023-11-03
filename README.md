@@ -3,7 +3,7 @@
 
 <!--
 <h1 align="center"> Welcome to my profile ❤️ </h1> -->
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20To%20My%20Profile&width=1000&height=300)](https://github.com/Akshay090/svg-banners)
+![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20To%20My%20Profile&width=1000&height=300)
 <h3 align="center"> Social Media: </h3>
   <p align="center">
     <a href="https://stackoverflow.com/users/22259843/abisinia">
@@ -20,7 +20,7 @@
 
 <div>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="192px" align="center" alt="Abi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Abisinia-Bautista&theme=dark&show_icons=true&border_radius=10"/></a>
+  <a><img height="192px" align="center" alt="Abi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Abisinia-Bautista&theme=dark&show_icons=true&border_radius=10"/></a>
   <br/>
   <!--
  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="192px" width="500px" align="center" alt="Abi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abisinia-Bautista&hide_progress=true&theme=jolly&border_radius=10" /></a>
