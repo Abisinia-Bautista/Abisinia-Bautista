@@ -1,8 +1,10 @@
 <!--
 ## <div align="center"> Mi perrito se llama Bruno  :dog: -->
 
-<h1 align="center"> Welcome to my profile ❤️ </h1>
-<h2 align="center"> Social Media: </h2>
+<!--
+<h1 align="center"> Welcome to my profile ❤️ </h1> -->
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20To%20My%20Profile&width=1000&height=300)](https://github.com/Akshay090/svg-banners)
+<h3 align="center"> Social Media: </h3>
   <p align="center">
     <a href="https://stackoverflow.com/users/22259843/abisinia">
       <img src="https://img.shields.io/badge/stack%20overflow-FEFDFC?&style=for-the-badge&logo=stack%20overflow&logoColor=ef8236&color=black&labelColor=black">
