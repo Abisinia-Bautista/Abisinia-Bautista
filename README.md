@@ -3,7 +3,7 @@
 
 <!--
 <h1 align="center"> Welcome to my profile ❤️ </h1> -->
-![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20To%20My%20Profile&width=1000&height=300)
+![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20To%20My%20Profile&width=1000&height=300&background=black)
 <h3 align="center"> Social Media: </h3>
   <p align="center">
     <a href="https://stackoverflow.com/users/22259843/abisinia">
