@@ -35,7 +35,7 @@
 
 <p align="center">&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abisinia-Bautista&show_icons=true&theme=transparent&locale=en" alt="Abisinia-Bautista" /></p>
 
-<p align="center">(https://github-readme-streak-stats.herokuapp.com?user=Abisinia-Bautista&theme=java-dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&hide_current_streak=true)](https://git.io/streak-stats)</p>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Abisinia-Bautista&theme=java-dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&hide_current_streak=true" alt="GitHub Streak" /></a></p>
 
 <!--
 <p align="left">
