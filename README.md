@@ -35,7 +35,7 @@
 
 <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abisinia-Bautista&show_icons=true&locale=en" alt="Abisinia-Bautista" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abisinia-Bautista&" alt="Abisinia-Bautista" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abisinia-Bautista&" alt="Abisinia-Bautista" /></p>
 
 <!--
 <p align="left">
