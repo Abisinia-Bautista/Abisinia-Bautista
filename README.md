@@ -33,7 +33,7 @@
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abisinia-Bautista&show_icons=true&locale=en&layout=compact" alt="Abisinia-Bautista" /></p> -->
 
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abisinia-Bautista&show_icons=true&theme=transparent&locale=en" alt="Abisinia-Bautista" /></p>
+<p align="center">&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abisinia-Bautista&show_icons=true&theme=transparent&locale=en" alt="Abisinia-Bautista" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abisinia-Bautista&" alt="Abisinia-Bautista" /></p>
 
