@@ -20,7 +20,7 @@
 
 <div>
 <p align="center">
-  <a><img height="192px" align="center" alt="Abi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Abisinia-Bautista&theme=dark&show_icons=true&border_radius=10"/></a>
+  <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abisinia-Bautista&show_icons=true&theme=transparent&locale=en" alt="Abisinia-Bautista" /></a>
   <br/>
   <!--
  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="192px" width="500px" align="center" alt="Abi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abisinia-Bautista&hide_progress=true&theme=jolly&border_radius=10" /></a>
@@ -33,7 +33,6 @@
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abisinia-Bautista&show_icons=true&locale=en&layout=compact" alt="Abisinia-Bautista" /></p> -->
 <div>
-<p align="center">&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abisinia-Bautista&show_icons=true&theme=transparent&locale=en" alt="Abisinia-Bautista" /></p>
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Abisinia-Bautista&theme=java-dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&hide_current_streak=true" alt="GitHub Streak" /></a></p>
 </div>
 <!--
